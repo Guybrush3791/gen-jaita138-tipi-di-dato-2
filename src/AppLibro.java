@@ -47,6 +47,9 @@ public class AppLibro {
 
         // ------------------------------------------------------------------
 
+        System.out.println("");
+        System.out.println("--------------------------------------------------");
+        System.out.println("");
         System.out.println("Il libro che hai definito:");
 
         // VERSIONE 1
